@@ -450,7 +450,7 @@ i {
     
 /*MEDIAQUERYMEDIAQUERYMEDIAQUERYMEDIAQUERYMEDIAQUERYMEDIAQUERYMEDIAQUERY*/
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .final-score{
         position: absolute;
         left: 50%;
